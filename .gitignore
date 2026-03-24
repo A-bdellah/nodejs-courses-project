@@ -131,3 +131,4 @@ dist
 
 # uploads folder
 /uploads
+/node_modules
